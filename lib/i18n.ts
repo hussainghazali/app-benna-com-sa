@@ -21,7 +21,7 @@ export const dictionary = {
     mapAria: "Map of Riyadh showing a live delivery route to your site",
     status: "Out for delivery",
     eta: "Arriving in 12 min",
-    orderLabel: "Order #BN-20418",
+    orderLabel: "Order #BENNA-SUB-20261011-000179",
   },
   ar: {
     headline: "تتبع جميع طلباتك في مكان واحد",
@@ -43,7 +43,7 @@ export const dictionary = {
     mapAria: "خريطة الرياض تعرض مسار توصيل مباشر إلى موقعك",
     status: "الطلب في الطريق",
     eta: "يصل خلال 12 دقيقة",
-    orderLabel: "طلب رقم BN-20418",
+    orderLabel: "طلب رقم BENNA-SUB-20261011-000179",
   },
 } as const;
 
